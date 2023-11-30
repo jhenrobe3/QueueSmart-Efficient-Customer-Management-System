@@ -8,7 +8,7 @@ My Baby Thesis Repository
 *Leader*
 1. John Paul Reña
 
-*Member*
+*Members*
 1. Jhenrobe Vergara
 2. Enrico Manabat
 3. Mervin Dayandante
