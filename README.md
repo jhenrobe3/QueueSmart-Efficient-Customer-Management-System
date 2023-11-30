@@ -6,7 +6,7 @@ My Baby Thesis Repository
 **Queue Smart**
 
 *Leader*
-> John Paul Reña
+1. John Paul Reña
 
 *Member*
 1. Jhenrobe Vergara
