@@ -3,7 +3,7 @@ My Baby Thesis Repository
 
 # Queue Smart
 
-**Queue Smart**
+**JoJo Group**
 
 *Leader*
 1. John Paul Reña
