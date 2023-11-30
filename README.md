@@ -3,12 +3,12 @@ My Baby Thesis Repository
 
 # Queue Smart
 
-** Queue Smart **
+**Queue Smart**
 
-* Leader *
+*Leader*
 John Paul Reña
 
-* Member *
+*Member*
 1. Jhenrobe Vergara
 2. Enrico Manabat
 3. Mervin Dayandante
